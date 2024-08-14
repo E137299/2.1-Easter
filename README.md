@@ -33,7 +33,7 @@ as follows:
 
 The value of n gives the month (3 for March and 4 for April) and the value of p + 1 gives the day of
 the month. For example, if y is 2003:
-
+```java
     a = 8
     b = 20
     c = 3
@@ -48,6 +48,7 @@ the month. For example, if y is 2003:
     m = 0
     n = 4
     p = 19
+```
 
 Therefore, in 2003, Easter fell on April 20 (month = n = 4 and day = p + 1 = 20).
 
@@ -57,7 +58,7 @@ Therefore, in 2003, Easter fell on April 20 (month = n = 4 and day = p + 1 = 20)
 
 A Sample run output for the year 2003 would be:
 
-
+```java
     a = 8
     b = 20
     c = 3
@@ -72,6 +73,7 @@ A Sample run output for the year 2003 would be:
     m = 0
     n = 4
     p = 19
+```
 
     Easter in 2003 falls on 4/20
 
